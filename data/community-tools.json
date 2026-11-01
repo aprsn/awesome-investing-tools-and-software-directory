@@ -8,5 +8,18 @@
       "Calendar"
     ],
     "summary": "Pre-launch tool for discovering and following US cash merger-arbitrage deals, with sourced updates, deadlines and scenario calculations. Waitlist open."
+  },
+  {
+    "name": "TickerReplay",
+    "url": "https://tickerreplay.com",
+    "categories": [
+      "Portfolio",
+      "Data Visualizations",
+      "Risk Metrics",
+      "Custom Dashboards",
+      "Broker Connectors",
+      "Options"
+    ],
+    "summary": "TickerReplay is a post-trade journal for stocks and options that rebuilds trades from broker executions, so a vertical, an iron condor or a roll stays one trade with one P&L instead of a separate row per leg. It imports CSVs from Interactive Brokers, tastytrade, thinkorswim and Robinhood or syncs a linked brokerage, and reports win rate, expectancy, profit factor and R multiples, excluding trades whose risk is unknown rather than estimating it."
   }
 ]
